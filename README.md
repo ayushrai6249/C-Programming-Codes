@@ -1,2 +1,2 @@
-# C programmin codes
+# C Programmin Codes
 By Ayush rai
